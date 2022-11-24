@@ -47,4 +47,7 @@
 
 ## Potential input
 
+[David Tan's blog post: Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
+[David Tan's video series of the same title](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3)
+
 [4 Things Data Scientists Should Learn From Software Engineers](https://towardsdatascience.com/be-a-better-data-scientist-1a5ad87fe48)
