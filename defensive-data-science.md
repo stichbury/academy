@@ -42,3 +42,9 @@
 * Team best practices (e.g. PR reviews)
 
 ## Input from teams
+
+
+
+## Potential input
+
+[4 Things Data Scientists Should Learn From Software Engineers](https://towardsdatascience.com/be-a-better-data-scientist-1a5ad87fe48)
