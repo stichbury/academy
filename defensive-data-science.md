@@ -26,7 +26,14 @@
 
 * IDEs (why notebooks are not good) and CLIs
 
-* Docker?
+* Resources to get help:
+    * Python
+    * Git
+    * VSCode
+    * CLI
+    * Docker
+    * Asking good questions
+    * Open source projects
 
 
 
