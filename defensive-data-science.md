@@ -1,5 +1,39 @@
 # Defensive Data Science
 
+## Draft curriculum for MVP
+
+* Version control
+
+* Dependencies
+
+* Configuration
+
+* YAML
+
+* Logging, diagnosing errors and debugging
+
+* Principles of clean code: readable code, naming conventions, etc
+
+* Linting, testing, CI/CD
+
+* Experiment tracking 
+
+* Data versioning
+
+* Team best practices
+
+* Code reviews
+
+* IDEs (why notebooks are not good) and CLIs
+
+* Docker?
+
+
+
+
+
+
+
 ## Motivation for taking the course
 
 * Why you need defensive techniques
